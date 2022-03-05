@@ -1,6 +1,11 @@
 # CovidApp
 
-
+<ol>
+    <li>Track data with rest API</li>
+     <li>Retrofit</li>
+     <li>Search feature</li>
+     <li>Recyclerview</li>
+  </ol>
 <h1>Dashboard where you track your country's data <h1>
 <img src="https://raw.githubusercontent.com/himanshu-466/CovidApp/master/ScreenShots/3529658c-3132-4451-953c-e18dbbc6f655.jpg" />
   
